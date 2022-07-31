@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: darkgray;
+    height: 70px;
+}
+.logo{
+    display: inline-block;
+    border: 3px solid black;
+    width: 10%;
+    position: relative;
+    top: 20px;
+}
+.menu{
+    display: inline-block;
+    border: 3px solid black;
+    width: 60%;
+    position: relative;
+    margin-left: 70px;
+    top: 20px;
+}
+.button{
+    display: inline-block;
+    border: 3px solid black;
+    width: 20%;
+    position: relative;
+    top: 20px;
+    margin-left: 20px;
+}
+.content{
+    background-color:thistle;
+    height: 510px;
+    margin-bottom: 0px;
+}
+.content h1{
+    text-align: center;
+}
+.banner
+{
+    border: 2px solid black;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    height: 200px;
+}
+footer{
+    background-color: darkgray;
+    color: black;
+    height: 70px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 7px;
+    font-size: large;
+}
